@@ -2,7 +2,7 @@
 ## csoto701@uchicago.edu
 ## 3rd Year Economics + Data Science Undergrad
 
-[View Resume](./images/carlos-soto-resume.jpg)
+[View Resume](images/carlos-soto-resume.jpg)
 
 [View Real Estate Deals](/all_deals.html)
 
