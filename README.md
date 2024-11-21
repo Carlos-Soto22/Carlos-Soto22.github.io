@@ -4,7 +4,7 @@
 
 [View Resume](./images/carlos-soto-resume.jpg)
 
-[View Real Estate Deals](./Real-Estate-Deals-Page/all_deals.html)
+[View Real Estate Deals](/all_deals.html)
 
 [View Malecon Group General Construction](https://www.malecongc.com)
 
