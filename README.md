@@ -10,6 +10,6 @@
 
 [View Chicago Neighborhood Investment Grade Clustering Project](investment-cluster-map.html)
 
-
+[Explore Chicago Parcel Sales Universe](chicago-parcel-sales.html)
 
 
