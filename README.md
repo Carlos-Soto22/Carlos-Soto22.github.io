@@ -9,6 +9,8 @@
 [View Malecon Group General Construction](https://www.malecongc.com)
 
 [View Chicago Neighborhood Investment Grade Clustering Project](investment-cluster-map.html)
+[View Chicago Neighborhood Investment Grade Clustering Project](map2.html)
+
 
 
 
